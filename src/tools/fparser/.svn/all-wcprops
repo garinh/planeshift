@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser
+END
+fparser.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/3752/trunk/src/tools/fparser/fparser.txt
+END
+fptypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fptypes.h
+END
+fpconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fpconfig.h
+END
+fparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fparser.cpp
+END
+fparser.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fparser.html
+END
+fparser_gmpint.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fparser_gmpint.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/src/tools/fparser/Jamfile
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/style.css
+END
+fparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fparser.h
+END
+fpaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fpaux.h
+END
+fpoptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fpoptimizer.cpp
+END
+fp_identifier_parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5546/trunk/src/tools/fparser/fp_identifier_parser.inc
+END
+fparser_mpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fparser_mpfr.h
+END
+fp_opcode_add.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5606/trunk/src/tools/fparser/fp_opcode_add.inc
+END

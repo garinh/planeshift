@@ -1,0 +1,887 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/5633/trunk/src/client/gui
+END
+pawsquestrewardwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsquestrewardwindow.h
+END
+pawsgmgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5134/trunk/src/client/gui/pawsgmgui.cpp
+END
+pawscontrolwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4081/trunk/src/client/gui/pawscontrolwindow.cpp
+END
+pawscharparents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5078/trunk/src/client/gui/pawscharparents.cpp
+END
+pawspetitiongmwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/3082/trunk/src/client/gui/pawspetitiongmwindow.h
+END
+pawsspellcancelwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsspellcancelwindow.cpp
+END
+pawsexchangewindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsexchangewindow.h
+END
+pawsglyphwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4043/trunk/src/client/gui/pawsglyphwindow.h
+END
+pawsslot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5596/trunk/src/client/gui/pawsslot.cpp
+END
+pawsbookreadingwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsbookreadingwindow.h
+END
+pawsmoney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4881/trunk/src/client/gui/pawsmoney.cpp
+END
+pawsignore.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4722/trunk/src/client/gui/pawsignore.h
+END
+pawschild.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawschild.h
+END
+pawshelp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3639/trunk/src/client/gui/pawshelp.h
+END
+pawsconfigwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4790/trunk/src/client/gui/pawsconfigwindow.cpp
+END
+pawspath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5075/trunk/src/client/gui/pawspath.h
+END
+pawscraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawscraft.h
+END
+pawsconfigchat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4807/trunk/src/client/gui/pawsconfigchat.cpp
+END
+pawsconfigkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/pawsconfigkeys.h
+END
+pawsbuddy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5095/trunk/src/client/gui/pawsbuddy.cpp
+END
+pawsconfigentityinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsconfigentityinter.h
+END
+pawscontainerdescwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5581/trunk/src/client/gui/pawscontainerdescwindow.cpp
+END
+pawslootwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/2432/trunk/src/client/gui/pawslootwindow.h
+END
+pawsskillwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5501/trunk/src/client/gui/pawsskillwindow.h
+END
+pawscharcreatemain.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5075/trunk/src/client/gui/pawscharcreatemain.h
+END
+pawscharbirth.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawscharbirth.h
+END
+pawsbookreadingwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4662/trunk/src/client/gui/pawsbookreadingwindow.cpp
+END
+pawsconfigcamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5633/trunk/src/client/gui/pawsconfigcamera.cpp
+END
+pawsconfigsound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4722/trunk/src/client/gui/pawsconfigsound.cpp
+END
+pawschardescription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawschardescription.cpp
+END
+pawsspellbookwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4920/trunk/src/client/gui/pawsspellbookwindow.cpp
+END
+pawssplashwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4518/trunk/src/client/gui/pawssplashwindow.cpp
+END
+pawsconfigmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsconfigmouse.h
+END
+pawssmallinventory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5057/trunk/src/client/gui/pawssmallinventory.cpp
+END
+pawshelp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3067/trunk/src/client/gui/pawshelp.cpp
+END
+pawsquestwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5500/trunk/src/client/gui/pawsquestwindow.cpp
+END
+pawsconfigpvp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4064/trunk/src/client/gui/pawsconfigpvp.cpp
+END
+pawspath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5076/trunk/src/client/gui/pawspath.cpp
+END
+pawsmoney.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4081/trunk/src/client/gui/pawsmoney.h
+END
+inventorywindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5575/trunk/src/client/gui/inventorywindow.h
+END
+pawsinteractwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawsinteractwindow.cpp
+END
+pawsilluminationwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/pawsilluminationwindow.h
+END
+pawsinventorydollview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawsinventorydollview.cpp
+END
+pawsconfigentityinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4549/trunk/src/client/gui/pawsconfigentityinter.cpp
+END
+pawsloginwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3972/trunk/src/client/gui/pawsloginwindow.h
+END
+pawsactivemagicwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawsactivemagicwindow.h
+END
+pawsconfigchatbubbles.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/2172/trunk/src/client/gui/pawsconfigchatbubbles.h
+END
+pawsbuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5095/trunk/src/client/gui/pawsbuddy.h
+END
+shortcutwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4248/trunk/src/client/gui/shortcutwindow.h
+END
+pawsconfigchattabs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5390/trunk/src/client/gui/pawsconfigchattabs.cpp
+END
+pawsloading.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/608/trunk/src/client/gui/pawsloading.h
+END
+pawsgameboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsgameboard.h
+END
+pawsmerchantwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5348/trunk/src/client/gui/pawsmerchantwindow.cpp
+END
+pawscharpick.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawscharpick.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/607/trunk/src/client/gui/Jamfile
+END
+pawsilluminationwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/pawsilluminationwindow.cpp
+END
+pawsitemdescriptionwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsitemdescriptionwindow.h
+END
+pawsdetailwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawsdetailwindow.h
+END
+pawsloginwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5076/trunk/src/client/gui/pawsloginwindow.cpp
+END
+pawsconfigpvp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsconfigpvp.h
+END
+pawssummary.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawssummary.h
+END
+pawsactionlocationwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsactionlocationwindow.h
+END
+pawsconfigshadows.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/1980/trunk/src/client/gui/pawsconfigshadows.h
+END
+pawsconfigchatbubbles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawsconfigchatbubbles.cpp
+END
+pawsactivemagicwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4969/trunk/src/client/gui/pawsactivemagicwindow.cpp
+END
+pawsgmaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5491/trunk/src/client/gui/pawsgmaction.h
+END
+pawsinventorydollview.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsinventorydollview.h
+END
+shortcutwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/shortcutwindow.cpp
+END
+pawslife.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5080/trunk/src/client/gui/pawslife.cpp
+END
+pawscharparents.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawscharparents.h
+END
+pawspetitionwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawspetitionwindow.cpp
+END
+pawsinfowindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsinfowindow.cpp
+END
+pawscharpick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5239/trunk/src/client/gui/pawscharpick.cpp
+END
+pawsconfigchattabs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5160/trunk/src/client/gui/pawsconfigchattabs.h
+END
+pawsgroupwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5040/trunk/src/client/gui/pawsgroupwindow.h
+END
+pawstutorialwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawstutorialwindow.cpp
+END
+pawsconfigkeys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/pawsconfigkeys.cpp
+END
+pawsstoragewindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5537/trunk/src/client/gui/pawsstoragewindow.h
+END
+pawsbankwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5613/trunk/src/client/gui/pawsbankwindow.cpp
+END
+pawslootwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawslootwindow.cpp
+END
+pawsquitinfobox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4245/trunk/src/client/gui/pawsquitinfobox.cpp
+END
+pawsconfigcamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsconfigcamera.h
+END
+pawsconfigsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3055/trunk/src/client/gui/pawsconfigsound.h
+END
+pawslife.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawslife.h
+END
+pawsgroupwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5040/trunk/src/client/gui/pawsgroupwindow.cpp
+END
+pawsspellbookwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4920/trunk/src/client/gui/pawsspellbookwindow.h
+END
+pawssplashwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4416/trunk/src/client/gui/pawssplashwindow.h
+END
+pawspetitionwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/3060/trunk/src/client/gui/pawspetitionwindow.h
+END
+pawsinfowindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsinfowindow.h
+END
+pawsconfigentitylabels.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4656/trunk/src/client/gui/pawsconfigentitylabels.h
+END
+pawscreditswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawscreditswindow.h
+END
+pawssmallinventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawssmallinventory.h
+END
+pawsstoragewindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/5537/trunk/src/client/gui/pawsstoragewindow.cpp
+END
+pawsquestrewardwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawsquestrewardwindow.cpp
+END
+pawstutorialwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawstutorialwindow.h
+END
+pawsbankwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5613/trunk/src/client/gui/pawsbankwindow.h
+END
+pawsexchangewindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/gui/pawsexchangewindow.cpp
+END
+pawsquitinfobox.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsquitinfobox.h
+END
+pawsloading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawsloading.cpp
+END
+pawsgameboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsgameboard.cpp
+END
+pawsspellcancelwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsspellcancelwindow.h
+END
+pawsslot.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5596/trunk/src/client/gui/pawsslot.h
+END
+pawssummary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5080/trunk/src/client/gui/pawssummary.cpp
+END
+pawsgmaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5491/trunk/src/client/gui/pawsgmaction.cpp
+END
+pawsconfigwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4790/trunk/src/client/gui/pawsconfigwindow.h
+END
+pawsnpcdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/3193/trunk/src/client/gui/pawsnpcdialog.h
+END
+pawsskillwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5499/trunk/src/client/gui/pawsskillwindow.cpp
+END
+pawscharcreatemain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5238/trunk/src/client/gui/pawscharcreatemain.cpp
+END
+pawscharbirth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5156/trunk/src/client/gui/pawscharbirth.cpp
+END
+pawsconfigchat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4308/trunk/src/client/gui/pawsconfigchat.h
+END
+pawsconfigchatfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4807/trunk/src/client/gui/pawsconfigchatfilter.cpp
+END
+pawsconfigdetails.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4694/trunk/src/client/gui/pawsconfigdetails.cpp
+END
+pawswritingwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/gui/pawswritingwindow.cpp
+END
+pawsconfigmouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4549/trunk/src/client/gui/pawsconfigmouse.cpp
+END
+pawscontainerdescwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawscontainerdescwindow.h
+END
+pawspetstatwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawspetstatwindow.h
+END
+pawsgmspawn.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4616/trunk/src/client/gui/pawsgmspawn.h
+END
+chatwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/chatwindow.h
+END
+pawschardescription.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/2969/trunk/src/client/gui/pawschardescription.h
+END
+inventorywindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5618/trunk/src/client/gui/inventorywindow.cpp
+END
+pawsquestwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4722/trunk/src/client/gui/pawsquestwindow.h
+END
+pawsnpcdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4998/trunk/src/client/gui/pawsnpcdialog.cpp
+END
+pawsguildwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5604/trunk/src/client/gui/pawsguildwindow.h
+END
+psmainwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/psmainwidget.h
+END
+pawsinteractwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawsinteractwindow.h
+END
+pawspetitiongmwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/3902/trunk/src/client/gui/pawspetitiongmwindow.cpp
+END
+pawsglyphwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/gui/pawsglyphwindow.cpp
+END
+pawspetstatwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4549/trunk/src/client/gui/pawspetstatwindow.cpp
+END
+pawsgmspawn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5131/trunk/src/client/gui/pawsgmspawn.cpp
+END
+chatwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5567/trunk/src/client/gui/chatwindow.cpp
+END
+pawsgmgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5134/trunk/src/client/gui/pawsgmgui.h
+END
+pawscontrolwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/2432/trunk/src/client/gui/pawscontrolwindow.h
+END
+pawsconfigchatfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/gui/pawsconfigchatfilter.h
+END
+pawsconfigdetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4694/trunk/src/client/gui/pawsconfigdetails.h
+END
+pawswritingwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4598/trunk/src/client/gui/pawswritingwindow.h
+END
+pawsignore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/3192/trunk/src/client/gui/pawsignore.cpp
+END
+pawschild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/1856/trunk/src/client/gui/pawschild.cpp
+END
+pawsconfigentitylabels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5084/trunk/src/client/gui/pawsconfigentitylabels.cpp
+END
+pawscreditswindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4122/trunk/src/client/gui/pawscreditswindow.cpp
+END
+pawsitemdescriptionwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4919/trunk/src/client/gui/pawsitemdescriptionwindow.cpp
+END
+pawsdetailwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4949/trunk/src/client/gui/pawsdetailwindow.cpp
+END
+pawsguildwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5604/trunk/src/client/gui/pawsguildwindow.cpp
+END
+pawsmerchantwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/4882/trunk/src/client/gui/pawsmerchantwindow.h
+END
+pawsactionlocationwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4601/trunk/src/client/gui/pawsactionlocationwindow.cpp
+END
+pawsconfigshadows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4064/trunk/src/client/gui/pawsconfigshadows.cpp
+END
+pawscraft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/gui/pawscraft.cpp
+END
+psmainwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5396/trunk/src/client/gui/psmainwidget.cpp
+END

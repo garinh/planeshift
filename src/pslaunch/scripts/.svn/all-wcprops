@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/3954/trunk/src/pslaunch/scripts
+END
+makeupdate
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/3954/trunk/src/pslaunch/scripts/makeupdate
+END
+makeintegrity
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/3954/trunk/src/pslaunch/scripts/makeintegrity
+END

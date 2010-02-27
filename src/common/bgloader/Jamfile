@@ -1,0 +1,12 @@
+SubDir TOP src common bgloader ;
+
+Description bgloader : "Background Loader" ;
+
+Plugin bgloader
+	: [ Wildcard *.cpp *.h ]
+;
+
+ExternalLibs bgloader : CRYSTAL ;
+CompileGroups bgloader : client server ;
+
+StaticPluginLibrary planeshift_staticplugins ;

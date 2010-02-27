@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5307/trunk/src/common/effects
+END
+pseffectobjlabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjlabel.h
+END
+pseffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5307/trunk/src/common/effects/pseffect.cpp
+END
+pseffectanchor.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchor.h
+END
+pseffectobjtext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjtext.cpp
+END
+pseffectobjparticles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjparticles.cpp
+END
+pseffectanchorsocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/2329/trunk/src/common/effects/pseffectanchorsocket.cpp
+END
+pseffectobjsimpmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjsimpmesh.h
+END
+pseffectanchorspline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchorspline.cpp
+END
+pseffectobjsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjsound.h
+END
+pseffectobjquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/3850/trunk/src/common/effects/pseffectobjquad.h
+END
+pseffectobjmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjmesh.h
+END
+pseffect2drenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/effects/pseffect2drenderer.h
+END
+pseffectobjdecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/3896/trunk/src/common/effects/pseffectobjdecal.cpp
+END
+pseffectobjtext2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4232/trunk/src/common/effects/pseffectobjtext2d.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/effects/Jamfile
+END
+pseffectobjtrail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjtrail.cpp
+END
+pseffectobjtextable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/523/trunk/src/common/effects/pseffectobjtextable.h
+END
+pseffectobjstar.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/3850/trunk/src/common/effects/pseffectobjstar.h
+END
+pseffectobjlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4105/trunk/src/common/effects/pseffectobjlabel.cpp
+END
+pseffectanchor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchor.cpp
+END
+pseffectlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4465/trunk/src/common/effects/pseffectlight.h
+END
+pseffectobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobj.h
+END
+pseffectmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/3428/trunk/src/common/effects/pseffectmanager.h
+END
+pseffectobjsimpmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjsimpmesh.cpp
+END
+pseffectanchorbasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchorbasic.h
+END
+pseffectobjspire.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/3850/trunk/src/common/effects/pseffectobjspire.h
+END
+pseffectobjsound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5178/trunk/src/common/effects/pseffectobjsound.cpp
+END
+pseffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffect.h
+END
+pseffectobjtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjtext.h
+END
+pseffectobjquad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjquad.cpp
+END
+pseffectobjparticles.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjparticles.h
+END
+pseffectobjmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4542/trunk/src/common/effects/pseffectobjmesh.cpp
+END
+pseffectanchorsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchorsocket.h
+END
+pseffectanchorspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchorspline.h
+END
+pseffect2drenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/effects/pseffect2drenderer.cpp
+END
+pseffectobjstar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjstar.cpp
+END
+pseffectlight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4465/trunk/src/common/effects/pseffectlight.cpp
+END
+pseffectobjdecal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjdecal.h
+END
+pseffectobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobj.cpp
+END
+pseffectmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4612/trunk/src/common/effects/pseffectmanager.cpp
+END
+pseffectobjtext2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/effects/pseffectobjtext2d.h
+END
+pseffectobjtrail.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/3850/trunk/src/common/effects/pseffectobjtrail.h
+END
+pseffectanchorbasic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/1368/trunk/src/common/effects/pseffectanchorbasic.cpp
+END
+pseffectobjspire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/3647/trunk/src/common/effects/pseffectobjspire.cpp
+END

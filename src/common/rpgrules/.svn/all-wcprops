@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4968/trunk/src/common/rpgrules
+END
+psmoney.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/3484/trunk/src/common/rpgrules/psmoney.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3463/trunk/src/common/rpgrules/Jamfile
+END
+factions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3661/trunk/src/common/rpgrules/factions.cpp
+END
+vitals.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4968/trunk/src/common/rpgrules/vitals.h
+END
+psmoney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/3484/trunk/src/common/rpgrules/psmoney.cpp
+END
+factions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4145/trunk/src/common/rpgrules/factions.h
+END

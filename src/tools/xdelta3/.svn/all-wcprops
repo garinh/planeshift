@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4703/trunk/src/tools/xdelta3
+END
+xdelta3-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3500/trunk/src/tools/xdelta3/xdelta3-list.h
+END
+xdelta3.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4703/trunk/src/tools/xdelta3/xdelta3.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/xdelta3/Jamfile
+END
+xdelta3-cfgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/xdelta3/xdelta3-cfgs.h
+END
+xdelta3.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4703/trunk/src/tools/xdelta3/xdelta3.h
+END
+xdelta3-decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4703/trunk/src/tools/xdelta3/xdelta3-decode.h
+END
+xdelta3-hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3500/trunk/src/tools/xdelta3/xdelta3-hash.h
+END

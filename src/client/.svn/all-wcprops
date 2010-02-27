@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/planeshift/!svn/ver/5633/trunk/src/client
+END
+psslotmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/psslotmgr.h
+END
+clientvitals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/clientvitals.cpp
+END
+crashdialog.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5302/trunk/src/client/crashdialog.rc
+END
+entitylabels.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4656/trunk/src/client/entitylabels.h
+END
+pscelclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5614/trunk/src/client/pscelclient.cpp
+END
+questionclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4135/trunk/src/client/questionclient.cpp
+END
+zonehandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5359/trunk/src/client/zonehandler.cpp
+END
+actionhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5491/trunk/src/client/actionhandler.cpp
+END
+psclientdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3628/trunk/src/client/psclientdr.h
+END
+charapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5485/trunk/src/client/charapp.cpp
+END
+pscharcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5143/trunk/src/client/pscharcontrol.cpp
+END
+cmdadmin.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4611/trunk/src/client/cmdadmin.h
+END
+meshattach.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/src/client/meshattach.cpp
+END
+guihandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/guihandler.cpp
+END
+psnetmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4245/trunk/src/client/psnetmanager.cpp
+END
+psclientchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5108/trunk/src/client/psclientchar.h
+END
+psoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3148/trunk/src/client/psoptions.cpp
+END
+entitylabels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4754/trunk/src/client/entitylabels.cpp
+END
+pscamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4839/trunk/src/client/pscamera.h
+END
+pscal3dcallback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/2641/trunk/src/client/pscal3dcallback.cpp
+END
+cmdutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/5001/trunk/src/client/cmdutil.h
+END
+psclientdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5279/trunk/src/client/psclientdr.cpp
+END
+questionclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/questionclient.h
+END
+authentclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2547/trunk/src/client/authentclient.h
+END
+chatbubbles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4057/trunk/src/client/chatbubbles.cpp
+END
+psclientchar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5108/trunk/src/client/psclientchar.cpp
+END
+cmdguilds.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4611/trunk/src/client/cmdguilds.h
+END
+modehandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5357/trunk/src/client/modehandler.cpp
+END
+charapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/5439/trunk/src/client/charapp.h
+END
+psinventorycache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/psinventorycache.cpp
+END
+guihandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4611/trunk/src/client/guihandler.h
+END
+psnetmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4245/trunk/src/client/psnetmanager.h
+END
+cmdusers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/cmdusers.h
+END
+pscamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5632/trunk/src/client/pscamera.cpp
+END
+cmdutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5531/trunk/src/client/cmdutil.cpp
+END
+psoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/3148/trunk/src/client/psoptions.h
+END
+weather.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/3778/trunk/src/client/weather.h
+END
+authentclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4837/trunk/src/client/authentclient.cpp
+END
+psengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5537/trunk/src/client/psengine.cpp
+END
+cmdgroups.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/3445/trunk/src/client/cmdgroups.h
+END
+pscal3dcallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/2641/trunk/src/client/pscal3dcallback.h
+END
+cmdguilds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4003/trunk/src/client/cmdguilds.cpp
+END
+shadowmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/3897/trunk/src/client/shadowmanager.cpp
+END
+chatbubbles.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4611/trunk/src/client/chatbubbles.h
+END
+cmdusers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5575/trunk/src/client/cmdusers.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5456/trunk/src/client/Jamfile
+END
+modehandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4695/trunk/src/client/modehandler.h
+END
+psinventorycache.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/psinventorycache.h
+END
+psslotmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/psslotmgr.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5302/trunk/src/client/resource.h
+END
+weather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5305/trunk/src/client/weather.cpp
+END
+psmovement.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4699/trunk/src/client/psmovement.h
+END
+cmdgroups.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4132/trunk/src/client/cmdgroups.cpp
+END
+clientvitals.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3148/trunk/src/client/clientvitals.h
+END
+pscelclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5614/trunk/src/client/pscelclient.h
+END
+cmdadmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4712/trunk/src/client/cmdadmin.cpp
+END
+psengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5531/trunk/src/client/psengine.h
+END
+zonehandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4611/trunk/src/client/zonehandler.h
+END
+actionhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5491/trunk/src/client/actionhandler.h
+END
+shadowmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2159/trunk/src/client/shadowmanager.h
+END
+meshattach.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1980/trunk/src/client/meshattach.h
+END
+pscharcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2885/trunk/src/client/pscharcontrol.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/globals.h
+END
+crashreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5609/trunk/src/client/crashreport.cpp
+END
+psmovement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5571/trunk/src/client/psmovement.cpp
+END

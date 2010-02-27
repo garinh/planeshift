@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/4662/trunk/src/tools/pawseditor
+END
+pemenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pemenu.h
+END
+pepawsmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pepawsmanager.h
+END
+peskinselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/peskinselector.h
+END
+pawseditorapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4662/trunk/src/tools/pawseditor/pawseditorapp.cpp
+END
+peeditablewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/2641/trunk/src/tools/pawseditor/peeditablewidget.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/Jamfile
+END
+pawseditorapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pawseditorapp.h
+END
+peeditablewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/2641/trunk/src/tools/pawseditor/peeditablewidget.h
+END
+pewidgettree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pewidgettree.cpp
+END
+pemenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pemenu.cpp
+END
+pawseditorglobals.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pawseditorglobals.h
+END
+pepawsmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pepawsmanager.cpp
+END
+peskinselector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/2905/trunk/src/tools/pawseditor/peskinselector.cpp
+END
+pewidgettree.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/2116/trunk/src/tools/pawseditor/pewidgettree.h
+END

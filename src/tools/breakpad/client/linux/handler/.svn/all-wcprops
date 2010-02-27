@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5216/trunk/src/tools/breakpad/client/linux/handler
+END
+exception_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/planeshift/!svn/ver/5216/trunk/src/tools/breakpad/client/linux/handler/exception_handler.cc
+END
+exception_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/planeshift/!svn/ver/5216/trunk/src/tools/breakpad/client/linux/handler/exception_handler.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/5601/trunk/src/client/sound
+END
+pssoundmngr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5601/trunk/src/client/sound/pssoundmngr.cpp
+END
+pssoundmngr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5338/trunk/src/client/sound/pssoundmngr.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/20/trunk/src/client/sound/Jamfile
+END

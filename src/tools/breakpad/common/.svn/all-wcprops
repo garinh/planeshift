@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5355/trunk/src/tools/breakpad/common
+END
+convert_UTF.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/common/convert_UTF.c
+END
+string_conversion.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/common/string_conversion.cc
+END
+string_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/common/string_conversion.h
+END
+convert_UTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/common/convert_UTF.h
+END

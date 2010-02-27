@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/planeshift/!svn/ver/5109/trunk/tools
+END
+account-dump
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5109/trunk/tools/account-dump
+END
+jobber-svn.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4490/trunk/tools/jobber-svn.pl
+END
+jobber.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/4724/trunk/tools/jobber.cfg
+END
+art-convert
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4528/trunk/tools/art-convert
+END
+lm-convert
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/4513/trunk/tools/lm-convert
+END
+pscript-validator
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4093/trunk/tools/pscript-validator
+END

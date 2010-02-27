@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5612/trunk/src/server/database/mysql
+END
+npc_responses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_responses.sql
+END
+security_levels.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/security_levels.sql
+END
+create_indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/3562/trunk/src/server/database/mysql/create_indexes.sql
+END
+sc_waypoints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_waypoints.sql
+END
+sectors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/4273/trunk/src/server/database/mysql/sectors.sql
+END
+bans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/bans.sql
+END
+wc_statistics.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5141/trunk/src/server/database/mysql/wc_statistics.sql
+END
+quests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4499/trunk/src/server/database/mysql/quests.sql
+END
+npc_triggers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_triggers.sql
+END
+npc_spawn_ranges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/5454/trunk/src/server/database/mysql/npc_spawn_ranges.sql
+END
+gm_events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/gm_events.sql
+END
+merchant_item_cats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/merchant_item_cats.sql
+END
+hunt_locations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/hunt_locations.sql
+END
+alliances.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/alliances.sql
+END
+create_all.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4476/trunk/src/server/database/mysql/create_all.sql
+END
+command_access.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/5132/trunk/src/server/database/mysql/command_access.sql
+END
+npc_trigger_groups.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_trigger_groups.sql
+END
+char_traits.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/char_traits.sql
+END
+wc_accessrules.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/1980/trunk/src/server/database/mysql/wc_accessrules.sql
+END
+upgrade_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/5612/trunk/src/server/database/mysql/upgrade_schema.sql
+END
+familiar_types.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/familiar_types.sql
+END
+trade_transformations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/4475/trunk/src/server/database/mysql/trade_transformations.sql
+END
+trade_autocontainers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trade_autocontainers.sql
+END
+loot_modifiers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/loot_modifiers.sql
+END
+guildlevels.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/guildlevels.sql
+END
+characters.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5604/trunk/src/server/database/mysql/characters.sql
+END
+tips.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4971/trunk/src/server/database/mysql/tips.sql
+END
+character_events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/character_events.sql
+END
+server_options.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/5612/trunk/src/server/database/mysql/server_options.sql
+END
+race_info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5492/trunk/src/server/database/mysql/race_info.sql
+END
+trade_processes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trade_processes.sql
+END
+trainer_skills.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trainer_skills.sql
+END
+tribes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/tribes.sql
+END
+char_skills.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/char_skills.sql
+END
+sc_location_type.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_location_type.sql
+END
+npc_synonyms.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_synonyms.sql
+END
+sc_waypoint_links.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_waypoint_links.sql
+END
+natural_resources.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/natural_resources.sql
+END
+guild_wars.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/1980/trunk/src/server/database/mysql/guild_wars.sql
+END
+character_relationships.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/planeshift/!svn/ver/4029/trunk/src/server/database/mysql/character_relationships.sql
+END
+dbmysql.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/dbmysql.csplugin
+END
+deletechar.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/deletechar.sql
+END
+sc_npc_definitions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_npc_definitions.sql
+END
+unique_content.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/unique_content.sql
+END
+planeshift_db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4477/trunk/src/server/database/mysql/planeshift_db.xml
+END
+armorvsweapon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/armorvsweapon.sql
+END
+deletenpc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/deletenpc.sql
+END
+introductions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/1980/trunk/src/server/database/mysql/introductions.sql
+END
+drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/1003/trunk/src/server/database/mysql/drop.sql
+END
+item_instances.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/item_instances.sql
+END
+race_spawns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5317/trunk/src/server/database/mysql/race_spawns.sql
+END
+factions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4735/trunk/src/server/database/mysql/factions.sql
+END
+character_limitations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/character_limitations.sql
+END
+bad_names.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/bad_names.sql
+END
+money_events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/money_events.sql
+END
+item_stats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5403/trunk/src/server/database/mysql/item_stats.sql
+END
+sc_path_points.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_path_points.sql
+END
+player_spells.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/player_spells.sql
+END
+sc_locations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_locations.sql
+END
+deletenpc_mb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/deletenpc_mb.sql
+END
+dal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4745/trunk/src/server/database/mysql/dal.cpp
+END
+trade_constraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trade_constraints.sql
+END
+planeshift_db.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/planeshift_db.png
+END
+action_locations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/5491/trunk/src/server/database/mysql/action_locations.sql
+END
+char_create_affinity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/char_create_affinity.sql
+END
+movement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4264/trunk/src/server/database/mysql/movement.sql
+END
+char_creation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/char_creation.sql
+END
+npc_spawn_rules.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/1356/trunk/src/server/database/mysql/npc_spawn_rules.sql
+END
+gm_command_log.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/gm_command_log.sql
+END
+item_categories.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/4826/trunk/src/server/database/mysql/item_categories.sql
+END
+createdrop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/createdrop.sh
+END
+gameboards.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/gameboards.sql
+END
+traits.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4482/trunk/src/server/database/mysql/traits.sql
+END
+quest_scripts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5044/trunk/src/server/database/mysql/quest_scripts.sql
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5531/trunk/src/server/database/mysql/Jamfile
+END
+accessrules.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/accessrules.sql
+END
+petitions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/petitions.sql
+END
+accounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/4530/trunk/src/server/database/mysql/accounts.sql
+END
+trade_patterns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trade_patterns.sql
+END
+ways.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/ways.sql
+END
+sc_tribe_resources.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_tribe_resources.sql
+END
+loot_rules.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/loot_rules.sql
+END
+guilds.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/guilds.sql
+END
+dal.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4641/trunk/src/server/database/mysql/dal.h
+END
+progress_events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5055/trunk/src/server/database/mysql/progress_events.sql
+END
+warnings.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/1980/trunk/src/server/database/mysql/warnings.sql
+END
+migration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/database/mysql/migration.sql
+END
+npc_bad_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_bad_text.sql
+END
+sc_tribe_memories.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_tribe_memories.sql
+END
+wc_cmdlog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/1980/trunk/src/server/database/mysql/wc_cmdlog.sql
+END
+math_scripts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5570/trunk/src/server/database/mysql/math_scripts.sql
+END
+character_quests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/character_quests.sql
+END
+sc_waypoint_aliases.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/sc_waypoint_aliases.sql
+END
+stances.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/stances.sql
+END
+skills.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/5535/trunk/src/server/database/mysql/skills.sql
+END
+spells.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4981/trunk/src/server/database/mysql/spells.sql
+END
+trade_combinations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/trade_combinations.sql
+END
+npc_disallowed_words.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_disallowed_words.sql
+END
+spell_glyphs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/spell_glyphs.sql
+END
+loot_rule_details.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/loot_rule_details.sql
+END
+npc_kas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/npc_kas.sql
+END
+tribe_members.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4009/trunk/src/server/database/mysql/tribe_members.sql
+END
+item_animations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/4476/trunk/src/server/database/mysql/item_animations.sql
+END

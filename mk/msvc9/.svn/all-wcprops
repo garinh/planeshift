@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9
+END
+libpsclient_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsclient_static_plugins.vcproj
+END
+libpsnpcclient_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsnpcclient_static_plugins.vcproj
+END
+libpssound.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpssound.vcproj
+END
+plgbgloader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/plgbgloader.vcproj
+END
+grptools_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptools_psstatic.vcproj
+END
+grpapps_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpapps_psminimal.vcproj
+END
+libeedit_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libeedit_static_plugins_CRYSTAL.vcproj
+END
+appeedit.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/appeedit.vcproj
+END
+libpsengine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsengine.vcproj
+END
+grpserver_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_psminimalstatic.vcproj
+END
+grpall_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpall_psminimalstatic.vcproj
+END
+appworldeditor_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/appworldeditor_static.vcproj
+END
+libpsutil.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsutil.vcproj
+END
+wkspsminimal.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5577/trunk/mk/msvc9/wkspsminimal.sln
+END
+libpsserver_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsserver_static_plugins.vcproj
+END
+grpplugins_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpplugins_psminimalstatic.vcproj
+END
+grpclient_static_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_static_psminimalstatic.vcproj
+END
+grpplugins_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpplugins_pstypical.vcproj
+END
+grppsnpcclient_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grppsnpcclient_pstypical.vcproj
+END
+apppslaunch_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/apppslaunch_static.vcproj
+END
+grpclient_static_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_static_pstypical.vcproj
+END
+appccheck_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/appccheck_static.vcproj
+END
+apppsclient_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/apppsclient_static.vcproj
+END
+libfparser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libfparser.vcproj
+END
+grpall_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpall_psstatic.vcproj
+END
+libxdelta3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libxdelta3.vcproj
+END
+libpsrpgrules.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsrpgrules.vcproj
+END
+libworldeditor_static_plugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libworldeditor_static_plugins.vcproj
+END
+grptools_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptools_pstypical.vcproj
+END
+appeedit_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/appeedit_static.vcproj
+END
+grptests_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptests_pstypical.vcproj
+END
+grpplugins_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpplugins_psminimal.vcproj
+END
+grppsnpcclient_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grppsnpcclient_psminimal.vcproj
+END
+apptestrpgrules.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apptestrpgrules.vcproj
+END
+grppsnpcclient_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grppsnpcclient_psstatic.vcproj
+END
+grpserver_static_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_static_psminimalstatic.vcproj
+END
+grpclient_static_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_static_psminimal.vcproj
+END
+libpslaunch_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpslaunch_static_plugins_CRYSTAL.vcproj
+END
+grpserver_static_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_static_pstypical.vcproj
+END
+grpclient_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_pstypical.vcproj
+END
+wkspsminimalstatic.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/wkspsminimalstatic.sln
+END
+libccheck_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libccheck_static_plugins_CRYSTAL.vcproj
+END
+apppsserver_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/apppsserver_static.vcproj
+END
+appccheck.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/appccheck.vcproj
+END
+libpsclient_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/libpsclient_static_plugins_CRYSTAL.vcproj
+END
+grptools_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptools_psminimal.vcproj
+END
+apppawseditor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apppawseditor.vcproj
+END
+libpsnpcclient_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/libpsnpcclient_static_plugins_CRYSTAL.vcproj
+END
+grplibs_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grplibs_psminimalstatic.vcproj
+END
+apppsnpcclient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apppsnpcclient.vcproj
+END
+grptests_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptests_psminimal.vcproj
+END
+grptests_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptests_psstatic.vcproj
+END
+grplibs_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grplibs_pstypical.vcproj
+END
+grpserver_static_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_static_psminimal.vcproj
+END
+grpclient_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_psminimal.vcproj
+END
+liblibpsnpcclient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/liblibpsnpcclient.vcproj
+END
+grpclient_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_psstatic.vcproj
+END
+libpaws.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpaws.vcproj
+END
+grpplugins_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpplugins_psstatic.vcproj
+END
+grpserver_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_pstypical.vcproj
+END
+grpclient_static_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_static_psstatic.vcproj
+END
+grpall_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpall_pstypical.vcproj
+END
+libpsserver_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/libpsserver_static_plugins_CRYSTAL.vcproj
+END
+libwordnet.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libwordnet.vcproj
+END
+grplibs_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grplibs_psminimal.vcproj
+END
+grppsnpcclient_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grppsnpcclient_psminimalstatic.vcproj
+END
+apppslaunch.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apppslaunch.vcproj
+END
+plgdbmysql.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/plgdbmysql.vcproj
+END
+libpsnet.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libpsnet.vcproj
+END
+apppsclient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apppsclient.vcproj
+END
+grpapps_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpapps_psstatic.vcproj
+END
+wkspstypical.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5577/trunk/mk/msvc9/wkspstypical.sln
+END
+grpserver_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_psminimal.vcproj
+END
+grpserver_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_psstatic.vcproj
+END
+grptools_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptools_psminimalstatic.vcproj
+END
+apppsnpcclient_static.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/apppsnpcclient_static.vcproj
+END
+grpall_psminimal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpall_psminimal.vcproj
+END
+grptests_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grptests_psminimalstatic.vcproj
+END
+grpapps_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpapps_psminimalstatic.vcproj
+END
+libplaneshift_staticplugins.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libplaneshift_staticplugins.vcproj
+END
+libbulkobjects.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libbulkobjects.vcproj
+END
+libworldeditor_static_plugins_CRYSTAL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/libworldeditor_static_plugins_CRYSTAL.vcproj
+END
+appworldeditor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/appworldeditor.vcproj
+END
+libbreakpad.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libbreakpad.vcproj
+END
+grpserver_static_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpserver_static_psstatic.vcproj
+END
+grpapps_pstypical.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpapps_pstypical.vcproj
+END
+libeffects.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/libeffects.vcproj
+END
+grpclient_psminimalstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grpclient_psminimalstatic.vcproj
+END
+wkspsstatic.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5602/trunk/mk/msvc9/wkspsstatic.sln
+END
+apppsserver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/apppsserver.vcproj
+END
+libgui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5577/trunk/mk/msvc9/libgui.vcproj
+END
+grplibs_psstatic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5489/trunk/mk/msvc9/grplibs_psstatic.vcproj
+END

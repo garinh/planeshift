@@ -1,0 +1,86 @@
+10
+
+dir
+5633
+https://planeshift.svn.sourceforge.net/svnroot/planeshift/trunk/src
+https://planeshift.svn.sourceforge.net/svnroot/planeshift
+
+
+
+2010-02-24T02:46:19.352979Z
+5633
+Khakilord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2752fbe2-5038-0410-9d0a-88578062bcef
+
+npcclient
+dir
+
+tools
+dir
+
+server
+dir
+
+Jamfile
+file
+
+
+
+
+2010-02-27T05:26:07.157389Z
+bd5fe0530b816554e653b6b829f9797b
+2009-10-24T13:55:32.755146Z
+4682
+mgist
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+250
+
+common
+dir
+
+eedit
+dir
+
+pslaunch
+dir
+
+client
+dir
+
+worldeditor
+dir
+

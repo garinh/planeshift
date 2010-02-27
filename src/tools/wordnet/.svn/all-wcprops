@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet
+END
+wnutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/wnutil.c
+END
+morph.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/morph.c
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/search.c
+END
+wnglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/wnglobal.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/Jamfile
+END
+wnrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/wnrtl.c
+END
+binsrch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/binsrch.c
+END
+wn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/wn.h
+END
+wnhelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1980/trunk/src/tools/wordnet/wnhelp.c
+END

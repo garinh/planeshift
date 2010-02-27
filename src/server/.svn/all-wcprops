@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/planeshift/!svn/ver/5631/trunk/src/server
+END
+cachemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5537/trunk/src/server/cachemanager.cpp
+END
+guildmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5620/trunk/src/server/guildmanager.cpp
+END
+creationmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5569/trunk/src/server/creationmanager.cpp
+END
+weathermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/weathermanager.h
+END
+combatmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5020/trunk/src/server/combatmanager.cpp
+END
+clients.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/3307/trunk/src/server/clients.cpp
+END
+questmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5578/trunk/src/server/questmanager.h
+END
+scripting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5193/trunk/src/server/scripting.cpp
+END
+events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5516/trunk/src/server/events.cpp
+END
+progressionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5541/trunk/src/server/progressionmanager.cpp
+END
+gem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5628/trunk/src/server/gem.cpp
+END
+economymanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/2259/trunk/src/server/economymanager.h
+END
+usermanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5631/trunk/src/server/usermanager.cpp
+END
+serverstatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5457/trunk/src/server/serverstatus.cpp
+END
+npcmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5543/trunk/src/server/npcmanager.cpp
+END
+introductionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4549/trunk/src/server/introductionmanager.cpp
+END
+actionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/actionmanager.h
+END
+playergroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4159/trunk/src/server/playergroup.h
+END
+deleteobjcallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/deleteobjcallback.h
+END
+slotmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5021/trunk/src/server/slotmanager.h
+END
+marriagemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4262/trunk/src/server/marriagemanager.cpp
+END
+spawnmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5469/trunk/src/server/spawnmanager.cpp
+END
+minigamemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/minigamemanager.h
+END
+groupmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5340/trunk/src/server/groupmanager.cpp
+END
+adminmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5132/trunk/src/server/adminmanager.h
+END
+gemmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/4019/trunk/src/server/gemmesh.h
+END
+invitemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/458/trunk/src/server/invitemanager.h
+END
+cachemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5537/trunk/src/server/cachemanager.h
+END
+psserverdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5021/trunk/src/server/psserverdr.h
+END
+combatmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5021/trunk/src/server/combatmanager.h
+END
+scripting.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5193/trunk/src/server/scripting.h
+END
+deathcallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/deathcallback.h
+END
+events.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/5469/trunk/src/server/events.h
+END
+entitymanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5000/trunk/src/server/entitymanager.h
+END
+psserverchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5547/trunk/src/server/psserverchar.h
+END
+gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/5481/trunk/src/server/gem.h
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5122/trunk/src/server/client.cpp
+END
+serverstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/460/trunk/src/server/serverstatus.h
+END
+minigamemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/minigamemanager.cpp
+END
+introductionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/2847/trunk/src/server/introductionmanager.h
+END
+exchangemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5022/trunk/src/server/exchangemanager.h
+END
+clientstatuslogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/2259/trunk/src/server/clientstatuslogger.cpp
+END
+adminmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5603/trunk/src/server/adminmanager.cpp
+END
+gemmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4019/trunk/src/server/gemmesh.cpp
+END
+marriagemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/458/trunk/src/server/marriagemanager.h
+END
+invitemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4776/trunk/src/server/invitemanager.cpp
+END
+psproxlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3376/trunk/src/server/psproxlist.h
+END
+tutorialmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5369/trunk/src/server/tutorialmanager.cpp
+END
+psserverdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5477/trunk/src/server/psserverdr.cpp
+END
+gmeventmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4187/trunk/src/server/gmeventmanager.cpp
+END
+questionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/3639/trunk/src/server/questionmanager.cpp
+END
+authentserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4473/trunk/src/server/authentserver.h
+END
+paladinjr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4945/trunk/src/server/paladinjr.cpp
+END
+bankmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5127/trunk/src/server/bankmanager.cpp
+END
+entitymanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5604/trunk/src/server/entitymanager.cpp
+END
+psserverchar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5566/trunk/src/server/psserverchar.cpp
+END
+chatmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5389/trunk/src/server/chatmanager.cpp
+END
+spellmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5120/trunk/src/server/spellmanager.cpp
+END
+exchangemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5470/trunk/src/server/exchangemanager.cpp
+END
+command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5403/trunk/src/server/command.cpp
+END
+commandmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4712/trunk/src/server/commandmanager.h
+END
+psserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5316/trunk/src/server/psserver.h
+END
+workmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4649/trunk/src/server/workmanager.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/5122/trunk/src/server/client.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4021/trunk/src/server/main.cpp
+END
+msgmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3627/trunk/src/server/msgmanager.h
+END
+advicemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4621/trunk/src/server/advicemanager.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4426/trunk/src/server/Jamfile
+END
+netmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/netmanager.h
+END
+clientstatuslogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/clientstatuslogger.h
+END
+psproxlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4722/trunk/src/server/psproxlist.cpp
+END
+weathermanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4054/trunk/src/server/weathermanager.cpp
+END
+questmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5580/trunk/src/server/questmanager.cpp
+END
+authentserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5122/trunk/src/server/authentserver.cpp
+END
+tutorialmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4990/trunk/src/server/tutorialmanager.h
+END
+guildmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5605/trunk/src/server/guildmanager.h
+END
+economymanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5469/trunk/src/server/economymanager.cpp
+END
+creationmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5569/trunk/src/server/creationmanager.h
+END
+gmeventmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4071/trunk/src/server/gmeventmanager.h
+END
+clients.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/3307/trunk/src/server/clients.h
+END
+questionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/3639/trunk/src/server/questionmanager.h
+END
+actionmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5491/trunk/src/server/actionmanager.cpp
+END
+commandmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4712/trunk/src/server/commandmanager.cpp
+END
+paladinjr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/paladinjr.h
+END
+psserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5604/trunk/src/server/psserver.cpp
+END
+progressionmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/progressionmanager.h
+END
+bankmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/2819/trunk/src/server/bankmanager.h
+END
+icachedobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/src/server/icachedobject.h
+END
+slotmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5594/trunk/src/server/slotmanager.cpp
+END
+workmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5593/trunk/src/server/workmanager.cpp
+END
+usermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5604/trunk/src/server/usermanager.h
+END
+chatmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5164/trunk/src/server/chatmanager.h
+END
+spellmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5120/trunk/src/server/spellmanager.h
+END
+npcmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5053/trunk/src/server/npcmanager.h
+END
+msgmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4950/trunk/src/server/msgmanager.cpp
+END
+netmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5051/trunk/src/server/netmanager.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/915/trunk/src/server/globals.h
+END
+spawnmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5454/trunk/src/server/spawnmanager.h
+END
+advicemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/advicemanager.h
+END
+groupmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4612/trunk/src/server/groupmanager.h
+END

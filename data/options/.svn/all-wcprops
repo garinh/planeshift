@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/5558/trunk/data/options
+END
+controls_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5558/trunk/data/options/controls_def.xml
+END
+pvp_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/20/trunk/data/options/pvp_def.xml
+END
+camera_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4838/trunk/data/options/camera_def.xml
+END
+mouse_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2036/trunk/data/options/mouse_def.xml
+END
+shadows_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/1980/trunk/data/options/shadows_def.xml
+END
+sound_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5268/trunk/data/options/sound_def.xml
+END
+shortcutcommands_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/3072/trunk/data/options/shortcutcommands_def.xml
+END
+chatbubbles_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/2898/trunk/data/options/chatbubbles_def.xml
+END
+entityinter_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/20/trunk/data/options/entityinter_def.xml
+END
+chat_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5390/trunk/data/options/chat_def.xml
+END
+entitylabels_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/20/trunk/data/options/entitylabels_def.xml
+END

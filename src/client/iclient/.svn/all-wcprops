@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/iclient
+END
+isoundmngr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5165/trunk/src/client/iclient/isoundmngr.h
+END
+iscenemanipulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5470/trunk/src/client/iclient/iscenemanipulate.h
+END
+ibgloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5435/trunk/src/client/iclient/ibgloader.h
+END

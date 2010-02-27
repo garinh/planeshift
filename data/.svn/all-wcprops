@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/planeshift/!svn/ver/5632/trunk/data
+END
+guikeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/20/trunk/data/guikeys.xml
+END
+npcdefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/20/trunk/data/npcdefs.xml
+END
+phonics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/20/trunk/data/phonics.xml
+END
+unifont.zip
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/5413/trunk/data/unifont.zip
+END
+zoneinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/3392/trunk/data/zoneinfo.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/5550/trunk/data/help.xml
+END
+servers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/3973/trunk/data/servers.xml
+END
+npcbehave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5627/trunk/data/npcbehave.xml
+END
+pvp_regions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/data/pvp_regions.xml
+END
+emotes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/20/trunk/data/emotes.xml
+END
+prefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/20/trunk/data/prefs.xml
+END

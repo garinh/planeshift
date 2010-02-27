@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/planeshift/!svn/ver/5475/trunk/mk/autoconf
+END
+checkcswin32libs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checkcswin32libs.m4
+END
+checkstl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1980/trunk/mk/autoconf/checkstl.m4
+END
+cel.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/cel.m4
+END
+checklib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4211/trunk/mk/autoconf/checklib.m4
+END
+jam.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/jam.m4
+END
+ac_compile_check_sizeof.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/ac_compile_check_sizeof.m4
+END
+textcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/textcache.m4
+END
+listutil.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1980/trunk/mk/autoconf/listutil.m4
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/config.guess
+END
+trim.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/trim.m4
+END
+embed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/embed.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/config.sub
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/pkg.m4
+END
+checkopengl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checkopengl.m4
+END
+type_socklen_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/type_socklen_t.m4
+END
+progver.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/2003/trunk/mk/autoconf/progver.m4
+END
+csbuild.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/csbuild.m4
+END
+checkpthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checkpthread.m4
+END
+checkcommon.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4743/trunk/mk/autoconf/checkcommon.m4
+END
+visibility.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1980/trunk/mk/autoconf/visibility.m4
+END
+warnings.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/warnings.m4
+END
+jamcache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/jamcache.m4
+END
+cs_check_host.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/3820/trunk/mk/autoconf/cs_check_host.m4
+END
+ac_check_typedef.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/ac_check_typedef.m4
+END
+makecache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/makecache.m4
+END
+checklibtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checklibtool.m4
+END
+checkprog.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/38/trunk/mk/autoconf/checkprog.m4
+END
+mkdir.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/mkdir.m4
+END
+checktt2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3820/trunk/mk/autoconf/checktt2.m4
+END
+packageinfo.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/packageinfo.m4
+END
+checkpic.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checkpic.m4
+END
+compiler.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4743/trunk/mk/autoconf/compiler.m4
+END
+ac_need_stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/ac_need_stdint_h.m4
+END
+qualify.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/2003/trunk/mk/autoconf/qualify.m4
+END
+headercache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/headercache.m4
+END
+checkcppunit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/checkcppunit.m4
+END
+crystal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/3156/trunk/mk/autoconf/crystal.m4
+END
+language.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1980/trunk/mk/autoconf/language.m4
+END
+checkbinutils.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/2123/trunk/mk/autoconf/checkbinutils.m4
+END
+installdirs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/installdirs.m4
+END
+diagnose.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/diagnose.m4
+END
+split.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/4211/trunk/mk/autoconf/split.m4
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5475/trunk/mk/autoconf/libcurl.m4
+END
+path.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/autoconf/path.m4
+END
+checkbuild.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/checkbuild.m4
+END
+emit.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/autoconf/emit.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/20/trunk/mk/autoconf/install-sh
+END

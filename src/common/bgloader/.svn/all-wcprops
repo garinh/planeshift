@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/5596/trunk/src/common/bgloader
+END
+manipulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/5596/trunk/src/common/bgloader/manipulate.cpp
+END
+bgloader.csplugin
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5242/trunk/src/common/bgloader/bgloader.csplugin
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5242/trunk/src/common/bgloader/Jamfile
+END
+loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5435/trunk/src/common/bgloader/loader.cpp
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5470/trunk/src/common/bgloader/loader.h
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5378/trunk/src/common/bgloader/parser.cpp
+END

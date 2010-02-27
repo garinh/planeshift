@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/planeshift/!svn/ver/5616/trunk/mk/jam
+END
+swig.jam
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/4743/trunk/mk/jam/swig.jam
+END
+icons.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/5616/trunk/mk/jam/icons.jam
+END
+filelist.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4743/trunk/mk/jam/filelist.jam
+END
+unix.jam
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/2123/trunk/mk/jam/unix.jam
+END
+pythmod.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/jam/pythmod.jam
+END
+property.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/property.jam
+END
+upload.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/jam/upload.jam
+END
+resource.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/resource.jam
+END
+docs.jam
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/38/trunk/mk/jam/docs.jam
+END
+subdir.jam
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/subdir.jam
+END
+objects.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/38/trunk/mk/jam/objects.jam
+END
+plugin.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4871/trunk/mk/jam/plugin.jam
+END
+planeshift_staticplugins_msvc.jam
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/3724/trunk/mk/jam/planeshift_staticplugins_msvc.jam
+END
+crystalspace_staticplugins_msvc.jam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/4339/trunk/mk/jam/crystalspace_staticplugins_msvc.jam
+END
+msvcgen.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5616/trunk/mk/jam/msvcgen.jam
+END
+debuginfo.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/463/trunk/mk/jam/debuginfo.jam
+END
+application.jam
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/2123/trunk/mk/jam/application.jam
+END
+library.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/jam/library.jam
+END
+dump.jam
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/463/trunk/mk/jam/dump.jam
+END
+compiler.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/compiler.jam
+END
+pymarshall.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/pymarshall.jam
+END
+objectivec.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/objectivec.jam
+END
+assembler.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/assembler.jam
+END
+helper.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/1344/trunk/mk/jam/helper.jam
+END
+groups.jam
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/groups.jam
+END
+unittest.jam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/jam/unittest.jam
+END
+clean.jam
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/clean.jam
+END
+crystalspace_staticplugins_msvc8.jam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5252/trunk/mk/jam/crystalspace_staticplugins_msvc8.jam
+END
+crystalspace_staticplugins_msvc9.jam
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5252/trunk/mk/jam/crystalspace_staticplugins_msvc9.jam
+END
+static.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4872/trunk/mk/jam/static.jam
+END
+msi.jam
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/jam/msi.jam
+END
+help.jam
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/help.jam
+END
+bisonflex.jam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/bisonflex.jam
+END
+macosx.jam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4865/trunk/mk/jam/macosx.jam
+END
+options.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/options.jam
+END
+flags.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/4866/trunk/mk/jam/flags.jam
+END
+build.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/2123/trunk/mk/jam/build.jam
+END
+jamcompatibility.jam
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/jamcompatibility.jam
+END
+win32.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/4211/trunk/mk/jam/win32.jam
+END
+variant.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/20/trunk/mk/jam/variant.jam
+END
+install.jam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/planeshift/!svn/ver/38/trunk/mk/jam/install.jam
+END

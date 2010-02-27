@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/planeshift/!svn/ver/771/trunk/include/msvc
+END
+psconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/771/trunk/include/msvc/psconfig.h
+END
+psstdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/20/trunk/include/msvc/psstdint.h
+END

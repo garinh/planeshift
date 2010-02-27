@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/common/windows
+END
+guid_string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/common/windows/guid_string.cc
+END
+guid_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/common/windows/guid_string.h
+END
+http_upload.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/common/windows/http_upload.cc
+END
+http_upload.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/common/windows/http_upload.h
+END
+string_utils-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/planeshift/!svn/ver/5209/trunk/src/tools/breakpad/common/windows/string_utils-inl.h
+END

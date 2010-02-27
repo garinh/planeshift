@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5209/trunk/src/tools/breakpad/client/windows/common
+END
+ipc_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/planeshift/!svn/ver/5209/trunk/src/tools/breakpad/client/windows/common/ipc_protocol.h
+END

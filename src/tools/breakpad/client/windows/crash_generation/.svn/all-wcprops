@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/planeshift/!svn/ver/5214/trunk/src/tools/breakpad/client/windows/crash_generation
+END
+crash_generation_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/planeshift/!svn/ver/5209/trunk/src/tools/breakpad/client/windows/crash_generation/crash_generation_client.h
+END
+crash_generation_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/planeshift/!svn/ver/5214/trunk/src/tools/breakpad/client/windows/crash_generation/crash_generation_client.cc
+END

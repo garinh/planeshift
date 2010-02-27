@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3524/trunk/src/common/rpgrules/test
+END
+testrpgrules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/planeshift/!svn/ver/3524/trunk/src/common/rpgrules/test/testrpgrules.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3482/trunk/src/common/rpgrules/test/Jamfile
+END
+testrpgrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/3480/trunk/src/common/rpgrules/test/testrpgrules.h
+END

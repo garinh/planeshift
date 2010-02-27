@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/planeshift/!svn/ver/5252/trunk/mk/msvcgen
+END
+custom.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/292/trunk/mk/msvcgen/custom.cslib
+END
+project6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/292/trunk/mk/msvcgen/project6.tlib
+END
+project7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5252/trunk/mk/msvcgen/project7.tlib
+END
+custom2.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3434/trunk/mk/msvcgen/custom2.cslib
+END
+workspaces.jam
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/38/trunk/mk/msvcgen/workspaces.jam
+END
+custom3.cslib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/20/trunk/mk/msvcgen/custom3.cslib
+END
+control.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3156/trunk/mk/msvcgen/control.tlib
+END
+macros.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5252/trunk/mk/msvcgen/macros.tlib
+END
+projectx6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/mk/msvcgen/projectx6.tlib
+END
+workspace6.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/20/trunk/mk/msvcgen/workspace6.tlib
+END
+projectx7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3820/trunk/mk/msvcgen/projectx7.tlib
+END
+workspace7.tlib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2787/trunk/mk/msvcgen/workspace7.tlib
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/5000/trunk/data/schemas
+END
+CommonScripting.rng
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5000/trunk/data/schemas/CommonScripting.rng
+END
+ProgressionScript.rng
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4091/trunk/data/schemas/ProgressionScript.rng
+END
+ApplicativeScript.rng
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4094/trunk/data/schemas/ApplicativeScript.rng
+END

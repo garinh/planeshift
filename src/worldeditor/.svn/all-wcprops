@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/4681/trunk/src/worldeditor
+END
+worldeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4681/trunk/src/worldeditor/worldeditor.cpp
+END
+worldeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/3988/trunk/src/worldeditor/worldeditor.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3966/trunk/src/worldeditor/main.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3964/trunk/src/worldeditor/Jamfile
+END

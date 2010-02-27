@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/mpfr
+END
+GmpInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/mpfr/GmpInt.cpp
+END
+MpfrFloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/mpfr/MpfrFloat.h
+END
+GmpInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/mpfr/GmpInt.h
+END
+MpfrFloat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/4840/trunk/src/tools/fparser/mpfr/MpfrFloat.cpp
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/planeshift/!svn/ver/5633/trunk
+END
+updaterinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/4935/trunk/updaterinfo.xml
+END
+pawseditor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/planeshift/!svn/ver/2356/trunk/pawseditor.cfg
+END
+psclient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/5482/trunk/psclient.cfg
+END
+Jamrules
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/planeshift/!svn/ver/4613/trunk/Jamrules
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/5615/trunk/configure.ac
+END
+psserver.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/5381/trunk/psserver.cfg
+END
+eedit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/planeshift/!svn/ver/5232/trunk/eedit.cfg
+END
+pslaunch.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/planeshift/!svn/ver/4537/trunk/pslaunch.cfg
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/planeshift/!svn/ver/20/trunk/autogen.sh
+END
+worldeditor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/3976/trunk/worldeditor.cfg
+END
+vfs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/planeshift/!svn/ver/5413/trunk/vfs.cfg
+END
+Jamfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/planeshift/!svn/ver/5475/trunk/Jamfile.in
+END
+npcclient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/5381/trunk/npcclient.cfg
+END

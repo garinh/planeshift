@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/client/windows/sender
+END
+crash_report_sender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/planeshift/!svn/ver/5210/trunk/src/tools/breakpad/client/windows/sender/crash_report_sender.cc
+END
+crash_report_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/planeshift/!svn/ver/5202/trunk/src/tools/breakpad/client/windows/sender/crash_report_sender.h
+END

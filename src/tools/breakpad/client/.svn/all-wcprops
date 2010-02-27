@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5353/trunk/src/tools/breakpad/client
+END
+minidump_file_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/minidump_file_writer.cc
+END
+minidump_file_writer-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/minidump_file_writer-inl.h
+END
+minidump_file_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5224/trunk/src/tools/breakpad/client/minidump_file_writer.h
+END

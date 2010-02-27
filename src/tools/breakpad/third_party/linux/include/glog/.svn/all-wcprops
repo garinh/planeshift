@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/5222/trunk/src/tools/breakpad/third_party/linux/include/glog
+END
+log_severity.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/planeshift/!svn/ver/5222/trunk/src/tools/breakpad/third_party/linux/include/glog/log_severity.h
+END
+vlog_is_on.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/planeshift/!svn/ver/5222/trunk/src/tools/breakpad/third_party/linux/include/glog/vlog_is_on.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/planeshift/!svn/ver/5221/trunk/src/tools/breakpad/third_party/linux/include/glog/logging.h
+END

@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/planeshift/!svn/ver/5632/trunk/data/gui
+END
+containerdesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5416/trunk/data/gui/containerdesc.xml
+END
+charpick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4433/trunk/data/gui/charpick.xml
+END
+smallinventory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4282/trunk/data/gui/smallinventory.xml
+END
+detailwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4335/trunk/data/gui/detailwindow.xml
+END
+customwidgetslist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/20/trunk/data/gui/customwidgetslist.xml
+END
+bookwriting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4406/trunk/data/gui/bookwriting.xml
+END
+dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/dialog.xml
+END
+gmguiwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5134/trunk/data/gui/gmguiwindow.xml
+END
+merchant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4669/trunk/data/gui/merchant.xml
+END
+lifeevents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5079/trunk/data/gui/lifeevents.xml
+END
+configchatbubbles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4365/trunk/data/gui/configchatbubbles.xml
+END
+activemagicwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/activemagicwindow.xml
+END
+fingering.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4769/trunk/data/gui/fingering.xml
+END
+ok.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/ok.xml
+END
+petstatwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4764/trunk/data/gui/petstatwindow.xml
+END
+configsound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4684/trunk/data/gui/configsound.xml
+END
+configchattabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5160/trunk/data/gui/configchattabs.xml
+END
+helpwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/helpwindow.xml
+END
+gmaddeditaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5493/trunk/data/gui/gmaddeditaction.xml
+END
+exchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/exchange.xml
+END
+credits_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/data/gui/credits_config.xml
+END
+creditswindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/719/trunk/data/gui/creditswindow.xml
+END
+readbook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4406/trunk/data/gui/readbook.xml
+END
+petition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4970/trunk/data/gui/petition.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/group.xml
+END
+zodiacs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/3907/trunk/data/gui/zodiacs.xml
+END
+inventory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5183/trunk/data/gui/inventory.xml
+END
+configwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4495/trunk/data/gui/configwindow.xml
+END
+summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/742/trunk/data/gui/summary.xml
+END
+configshadows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4365/trunk/data/gui/configshadows.xml
+END
+quitinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/quitinfo.xml
+END
+craft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/craft.xml
+END
+charcreate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5079/trunk/data/gui/charcreate.xml
+END
+tutorial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4405/trunk/data/gui/tutorial.xml
+END
+newoptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/newoptions.xml
+END
+actionlocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/actionlocation.xml
+END
+skillwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4268/trunk/data/gui/skillwindow.xml
+END
+loot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/loot.xml
+END
+pslaunch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5518/trunk/data/gui/pslaunch.xml
+END
+spellcancelwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/spellcancelwindow.xml
+END
+configcamera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5632/trunk/data/gui/configcamera.xml
+END
+configmouse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4495/trunk/data/gui/configmouse.xml
+END
+chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/4879/trunk/data/gui/chat.xml
+END
+chat_basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5189/trunk/data/gui/chat_basic.xml
+END
+groupmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/groupmenu.xml
+END
+infowindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4373/trunk/data/gui/infowindow.xml
+END
+glyph.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4571/trunk/data/gui/glyph.xml
+END
+configentitylabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4661/trunk/data/gui/configentitylabels.xml
+END
+money.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4881/trunk/data/gui/money.xml
+END
+itemdesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/itemdesc.xml
+END
+questrewardwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/questrewardwindow.xml
+END
+loginwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4970/trunk/data/gui/loginwindow.xml
+END
+configkeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5399/trunk/data/gui/configkeys.xml
+END
+questnotebook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4384/trunk/data/gui/questnotebook.xml
+END
+bankwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5536/trunk/data/gui/bankwindow.xml
+END
+shortcutwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5184/trunk/data/gui/shortcutwindow.xml
+END
+illumination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/2427/trunk/data/gui/illumination.xml
+END
+chardescwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4408/trunk/data/gui/chardescwindow.xml
+END
+buddy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4382/trunk/data/gui/buddy.xml
+END
+spellwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4502/trunk/data/gui/spellwindow.xml
+END
+birth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/5079/trunk/data/gui/birth.xml
+END
+borderlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1137/trunk/data/gui/borderlist.xml
+END
+ignorewindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4875/trunk/data/gui/ignorewindow.xml
+END
+configchatfilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4365/trunk/data/gui/configchatfilter.xml
+END
+parents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/5079/trunk/data/gui/parents.xml
+END
+gmspawn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/4616/trunk/data/gui/gmspawn.xml
+END
+paths.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/772/trunk/data/gui/paths.xml
+END
+petitiongm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4970/trunk/data/gui/petitiongm.xml
+END
+control.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/control.xml
+END
+gameboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/gameboard.xml
+END
+control_styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5370/trunk/data/gui/control_styles.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4399/trunk/data/gui/styles.xml
+END
+eedit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/planeshift/!svn/ver/771/trunk/data/gui/eedit.xml
+END
+splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4415/trunk/data/gui/splash.xml
+END
+configpvp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4656/trunk/data/gui/configpvp.xml
+END
+guildwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5604/trunk/data/gui/guildwindow.xml
+END
+childhood.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5079/trunk/data/gui/childhood.xml
+END
+yesno.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/planeshift/!svn/ver/4973/trunk/data/gui/yesno.xml
+END
+filenavigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/data/gui/filenavigation.xml
+END
+widgetconfigwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/4501/trunk/data/gui/widgetconfigwindow.xml
+END
+configentityinter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4246/trunk/data/gui/configentityinter.xml
+END
+storage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/5537/trunk/data/gui/storage.xml
+END
+configchat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4656/trunk/data/gui/configchat.xml
+END
+paws_generic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/data/gui/paws_generic.xml
+END
+loadwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5284/trunk/data/gui/loadwindow.xml
+END
+interact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4341/trunk/data/gui/interact.xml
+END
+configdetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4694/trunk/data/gui/configdetails.xml
+END

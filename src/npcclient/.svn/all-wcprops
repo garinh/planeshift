@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/planeshift/!svn/ver/5626/trunk/src/npcclient
+END
+npcbehave.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3255/trunk/src/npcclient/npcbehave.h
+END
+tribeneed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3153/trunk/src/npcclient/tribeneed.cpp
+END
+npcmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/1980/trunk/src/npcclient/npcmesh.h
+END
+walkpoly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/3259/trunk/src/npcclient/walkpoly.cpp
+END
+networkmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4491/trunk/src/npcclient/networkmgr.h
+END
+tribe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/2259/trunk/src/npcclient/tribe.cpp
+END
+gem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/4976/trunk/src/npcclient/gem.cpp
+END
+command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3568/trunk/src/npcclient/command.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4208/trunk/src/npcclient/main.cpp
+END
+npcclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5526/trunk/src/npcclient/npcclient.h
+END
+npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/5526/trunk/src/npcclient/npc.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5024/trunk/src/npcclient/Jamfile
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/1908/trunk/src/npcclient/status.h
+END
+npcoperations.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/3646/trunk/src/npcclient/npcoperations.h
+END
+gtest_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/2323/trunk/src/npcclient/gtest_main.cpp
+END
+npcbehave_unittest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/planeshift/!svn/ver/3255/trunk/src/npcclient/npcbehave_unittest.cpp
+END
+npcgui.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/4226/trunk/src/npcclient/npcgui.h
+END
+npcbehave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5462/trunk/src/npcclient/npcbehave.cpp
+END
+npcmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3201/trunk/src/npcclient/npcmesh.cpp
+END
+networkmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5526/trunk/src/npcclient/networkmgr.cpp
+END
+perceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3639/trunk/src/npcclient/perceptions.h
+END
+pathfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3115/trunk/src/npcclient/pathfind.h
+END
+tribeneed.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/3115/trunk/src/npcclient/tribeneed.h
+END
+walkpoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3115/trunk/src/npcclient/walkpoly.h
+END
+tribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/3115/trunk/src/npcclient/tribe.h
+END
+gem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/4241/trunk/src/npcclient/gem.h
+END
+npcclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5530/trunk/src/npcclient/npcclient.cpp
+END
+npc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5526/trunk/src/npcclient/npc.cpp
+END
+status.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/3993/trunk/src/npcclient/status.cpp
+END
+npcoperations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5626/trunk/src/npcclient/npcoperations.cpp
+END
+npcgui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4226/trunk/src/npcclient/npcgui.cpp
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/20/trunk/src/npcclient/globals.h
+END
+perceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4456/trunk/src/npcclient/perceptions.cpp
+END
+pathfind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1908/trunk/src/npcclient/pathfind.cpp
+END

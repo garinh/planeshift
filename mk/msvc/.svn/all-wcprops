@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc
+END
+apppsclient_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/3723/trunk/mk/msvc/apppsclient_static_static_glue_lib.cpp
+END
+apppslaunch.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppslaunch.manifest
+END
+apppsserver_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsserver_static_staticuse_CRYSTAL.cpp
+END
+apppsclient.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsclient.manifest
+END
+apppslaunch_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppslaunch_static.rc
+END
+apppslaunch_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppslaunch_static.manifest
+END
+apppslaunch_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppslaunch_static_static_glue_app_CRYSTAL.cpp
+END
+appccheck_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appccheck_static.rc
+END
+apppsclient_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsclient_static.rc
+END
+appeedit_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/3978/trunk/mk/msvc/appeedit_static_static_glue_lib_CRYSTAL.cpp
+END
+apppsnpcclient_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsnpcclient_static_static_glue_app.cpp
+END
+appccheck_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/4723/trunk/mk/msvc/appccheck_static_staticuse_CRYSTAL.cpp
+END
+apppsclient_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsclient_static.manifest
+END
+apppsclient_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsclient_static_static_glue_app_CRYSTAL.cpp
+END
+apppsclient_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/3723/trunk/mk/msvc/apppsclient_static_staticuse.cpp
+END
+apppsnpcclient_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsnpcclient_static.manifest
+END
+appworldeditor_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_static_glue_lib.cpp
+END
+apppsnpcclient_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/5180/trunk/mk/msvc/apppsnpcclient_static_staticuse_CRYSTAL.cpp
+END
+libworldeditor_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libworldeditor_static_plugins.rc
+END
+OPENAL.fake_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4899/trunk/mk/msvc/OPENAL.fake_stub.c
+END
+appeedit_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appeedit_static.rc
+END
+apptestrpgrules.rc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apptestrpgrules.rc
+END
+appworldeditor_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_static_glue_app_CRYSTAL.cpp
+END
+apppsserver_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/3723/trunk/mk/msvc/apppsserver_static_static_glue_lib.cpp
+END
+apppsserver.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsserver.manifest
+END
+libpslaunch_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpslaunch_static_plugins_CRYSTAL.rc
+END
+libccheck_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libccheck_static_plugins_CRYSTAL.rc
+END
+apppsserver_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsserver_static.rc
+END
+appccheck.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appccheck.rc
+END
+libpsclient_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsclient_static_plugins_CRYSTAL.rc
+END
+apppawseditor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppawseditor.rc
+END
+libpsnpcclient_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsnpcclient_static_plugins_CRYSTAL.rc
+END
+apppsserver_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/4503/trunk/mk/msvc/apppsserver_static_staticuse.cpp
+END
+apppsserver_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsserver_static_static_glue_app_CRYSTAL.cpp
+END
+apppsserver_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsserver_static.manifest
+END
+apppsnpcclient.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsnpcclient.rc
+END
+appccheck.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appccheck.manifest
+END
+apppsnpcclient.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsnpcclient.manifest
+END
+libdbmysql_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/libdbmysql_staticreg.cpp
+END
+planeshift_staticplugins_msvc8.jam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5254/trunk/mk/msvc/planeshift_staticplugins_msvc8.jam
+END
+apppsclient_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/3723/trunk/mk/msvc/apppsclient_static_static_glue_app.cpp
+END
+planeshift_staticplugins_msvc9.jam
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5254/trunk/mk/msvc/planeshift_staticplugins_msvc9.jam
+END
+apppsnpcclient_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/4503/trunk/mk/msvc/apppsnpcclient_static_staticuse.cpp
+END
+appeedit_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/3978/trunk/mk/msvc/appeedit_static_static_glue_app_CRYSTAL.cpp
+END
+appworldeditor_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_static_glue_app.cpp
+END
+appworldeditor_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appworldeditor_static.manifest
+END
+appworldeditor_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_staticuse_CRYSTAL.cpp
+END
+libpsserver_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsserver_static_plugins_CRYSTAL.rc
+END
+apppslaunch.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppslaunch.rc
+END
+plgdbmysql.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/plgdbmysql.rc
+END
+appccheck_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/planeshift/!svn/ver/4595/trunk/mk/msvc/appccheck_static_static_glue_lib_CRYSTAL.cpp
+END
+apppsserver_static_static_glue_app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/planeshift/!svn/ver/3723/trunk/mk/msvc/apppsserver_static_static_glue_app.cpp
+END
+apppsnpcclient_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsnpcclient_static_static_glue_lib_CRYSTAL.cpp
+END
+apppsclient.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsclient.rc
+END
+libbgloader_staticreg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/3775/trunk/mk/msvc/libbgloader_staticreg.cpp
+END
+apppsnpcclient_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsnpcclient_static.rc
+END
+appccheck_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appccheck_static.manifest
+END
+plugin_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/4744/trunk/mk/msvc/plugin_impl.cpp
+END
+libworldeditor_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libworldeditor_static_plugins_CRYSTAL.rc
+END
+appworldeditor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appworldeditor.rc
+END
+appworldeditor.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appworldeditor.manifest
+END
+appeedit_static.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appeedit_static.manifest
+END
+appeedit_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/planeshift/!svn/ver/3992/trunk/mk/msvc/appeedit_static_staticuse_CRYSTAL.cpp
+END
+apptestrpgrules.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apptestrpgrules.manifest
+END
+appworldeditor_static_staticuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_staticuse.cpp
+END
+apppsserver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppsserver.rc
+END
+apppslaunch_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppslaunch_static_static_glue_lib_CRYSTAL.cpp
+END
+libpsclient_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsclient_static_plugins.rc
+END
+apppsnpcclient_static_static_glue_lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsnpcclient_static_static_glue_lib.cpp
+END
+apppsclient_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsclient_static_static_glue_lib_CRYSTAL.cpp
+END
+libpsnpcclient_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsnpcclient_static_plugins.rc
+END
+plgbgloader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/plgbgloader.rc
+END
+apppawseditor.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/apppawseditor.manifest
+END
+apppslaunch_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/5227/trunk/mk/msvc/apppslaunch_static_staticuse_CRYSTAL.cpp
+END
+appccheck_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/planeshift/!svn/ver/4595/trunk/mk/msvc/appccheck_static_static_glue_app_CRYSTAL.cpp
+END
+libeedit_static_plugins_CRYSTAL.rc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libeedit_static_plugins_CRYSTAL.rc
+END
+appeedit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appeedit.rc
+END
+apppsnpcclient_static_static_glue_app_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsnpcclient_static_static_glue_app_CRYSTAL.cpp
+END
+apppsclient_static_staticuse_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/planeshift/!svn/ver/4863/trunk/mk/msvc/apppsclient_static_staticuse_CRYSTAL.cpp
+END
+appeedit.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appeedit.manifest
+END
+appworldeditor_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/planeshift/!svn/ver/3960/trunk/mk/msvc/appworldeditor_static_static_glue_lib_CRYSTAL.cpp
+END
+appworldeditor_static.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/appworldeditor_static.rc
+END
+libpsserver_static_plugins.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/planeshift/!svn/ver/5617/trunk/mk/msvc/libpsserver_static_plugins.rc
+END
+apppsserver_static_static_glue_lib_CRYSTAL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/planeshift/!svn/ver/3713/trunk/mk/msvc/apppsserver_static_static_glue_lib_CRYSTAL.cpp
+END

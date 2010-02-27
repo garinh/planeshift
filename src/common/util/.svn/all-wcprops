@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/planeshift/!svn/ver/5615/trunk/src/common/util
+END
+pscssetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/5615/trunk/src/common/util/pscssetup.h
+END
+psres.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/919/trunk/src/common/util/psres.h
+END
+skillcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5321/trunk/src/common/util/skillcache.h
+END
+psprofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/psprofile.h
+END
+location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/3406/trunk/src/common/util/location.cpp
+END
+slots.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5537/trunk/src/common/util/slots.h
+END
+pspathnetwork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5380/trunk/src/common/util/pspathnetwork.cpp
+END
+waypoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/1304/trunk/src/common/util/waypoint.cpp
+END
+psdatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/psdatabase.h
+END
+eventmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4816/trunk/src/common/util/eventmanager.cpp
+END
+mathscript_unittest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/planeshift/!svn/ver/5486/trunk/src/common/util/mathscript_unittest.cpp
+END
+poolallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/poolallocator.h
+END
+psxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/5534/trunk/src/common/util/psxmlparser.cpp
+END
+psutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/76/trunk/src/common/util/psutil.cpp
+END
+gameevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/4240/trunk/src/common/util/gameevent.h
+END
+log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/5313/trunk/src/common/util/log.cpp
+END
+scriptvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/3148/trunk/src/common/util/scriptvar.h
+END
+pscssetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5323/trunk/src/common/util/pscssetup.cpp
+END
+pserror.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/pserror.h
+END
+psprofile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/psprofile.cpp
+END
+pspath.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4859/trunk/src/common/util/pspath.h
+END
+dbprofile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/dbprofile.cpp
+END
+psdatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/1279/trunk/src/common/util/psdatabase.cpp
+END
+gameevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/4240/trunk/src/common/util/gameevent.cpp
+END
+location.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/3639/trunk/src/common/util/location.h
+END
+psstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/4721/trunk/src/common/util/psstring.h
+END
+mathscript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5091/trunk/src/common/util/mathscript.cpp
+END
+waypoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1304/trunk/src/common/util/waypoint.h
+END
+eventmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/3453/trunk/src/common/util/eventmanager.h
+END
+fileutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/1980/trunk/src/common/util/fileutil.h
+END
+psxmlparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/psxmlparser.h
+END
+psutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/4836/trunk/src/common/util/psutil.h
+END
+localization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/planeshift/!svn/ver/4788/trunk/src/common/util/localization.cpp
+END
+consoleout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/2750/trunk/src/common/util/consoleout.cpp
+END
+minigame.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/2711/trunk/src/common/util/minigame.h
+END
+namegenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/namegenerator.h
+END
+serverconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/2285/trunk/src/common/util/serverconsole.h
+END
+psconst.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/4578/trunk/src/common/util/psconst.h
+END
+pspath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/5384/trunk/src/common/util/pspath.cpp
+END
+pscache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/pscache.cpp
+END
+strutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/791/trunk/src/common/util/strutil.cpp
+END
+psstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/4721/trunk/src/common/util/psstring.cpp
+END
+dbprofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/dbprofile.h
+END
+fileutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/1980/trunk/src/common/util/fileutil.cpp
+END
+psresmngr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/919/trunk/src/common/util/psresmngr.cpp
+END
+genrefqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/planeshift/!svn/ver/5026/trunk/src/common/util/genrefqueue.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/planeshift/!svn/ver/2641/trunk/src/common/util/heap.h
+END
+genericevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/genericevent.h
+END
+mathscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/5086/trunk/src/common/util/mathscript.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/3148/trunk/src/common/util/Jamfile
+END
+namegenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/namegenerator.cpp
+END
+texfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/3201/trunk/src/common/util/texfactory.cpp
+END
+serverconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/planeshift/!svn/ver/5137/trunk/src/common/util/serverconsole.cpp
+END
+psres.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/919/trunk/src/common/util/psres.cpp
+END
+localization.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/4553/trunk/src/common/util/localization.h
+END
+consoleout.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/consoleout.h
+END
+skillcache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/planeshift/!svn/ver/5321/trunk/src/common/util/skillcache.cpp
+END
+slots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/2354/trunk/src/common/util/slots.cpp
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/singleton.h
+END
+stringarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/planeshift/!svn/ver/536/trunk/src/common/util/stringarray.h
+END
+pscache.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/pscache.h
+END
+strutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/planeshift/!svn/ver/524/trunk/src/common/util/strutil.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/README
+END
+pspathnetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/planeshift/!svn/ver/1374/trunk/src/common/util/pspathnetwork.h
+END
+psscf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/psscf.h
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/1389/trunk/src/common/util/command.h
+END
+psresmngr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/919/trunk/src/common/util/psresmngr.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/planeshift/!svn/ver/1279/trunk/src/common/util/log.h
+END
+pserror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/pserror.cpp
+END
+texfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/planeshift/!svn/ver/20/trunk/src/common/util/texfactory.h
+END

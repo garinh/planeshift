@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/planeshift/!svn/ver/5353/trunk/src/tools/breakpad/client/linux/minidump_writer
+END
+line_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/linux/minidump_writer/line_reader.h
+END
+linux_dumper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/planeshift/!svn/ver/5353/trunk/src/tools/breakpad/client/linux/minidump_writer/linux_dumper.cc
+END
+linux_dumper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/linux/minidump_writer/linux_dumper.h
+END
+minidump_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/linux/minidump_writer/minidump_writer.cc
+END
+minidump_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/planeshift/!svn/ver/5219/trunk/src/tools/breakpad/client/linux/minidump_writer/minidump_writer.h
+END
+directory_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/planeshift/!svn/ver/5345/trunk/src/tools/breakpad/client/linux/minidump_writer/directory_reader.h
+END
